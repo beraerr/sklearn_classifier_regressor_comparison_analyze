@@ -1,4 +1,4 @@
-# ml-sklearn-classify-and-regress
+# sklearn_classifier_regressor_comparison_analyze
 
 End-to-end **scikit-learn** workflows in Jupyter: **binary classification** on synthetic moons (multiple models + soft voting ensemble, train/test errors, decision-boundary plot) and **regression** on two tabular datasets comparing **linear** vs **degree-3 polynomial** models with **R²** on a held-out test split.
 
